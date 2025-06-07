@@ -38,6 +38,9 @@ nav{
   font-weight: 800; 
   justify-content: center;  
 }
+.banner-title{
+  font-family: "Azeret Mono", monospace;
+}
 .ptag{
   font-family: "Azeret Mono", monospace;
   font-weight: 200px;  
@@ -53,9 +56,8 @@ nav{
     margin: 50px;
 }
 .profile-img{
-  margin-bottom: 20px;
-  margin-top: 30px;
-  justify-content: center;
+  margin: 0 auto; 
+  max-width: 200px; 
 }
 .banner-tittle{
   text-align: center;
@@ -68,8 +70,16 @@ nav{
   text-align: center;
   font-family: "Azeret Mono", monospace;
   font-style:bold;
-  margin-bottom: auto
-  width: 40%;
+  margin-bottom: auto;
+}
+
+.ptag2{
+  text-align: center;
+  font-family: "Azeret Mono", monospace;
+  font-style:bold;
+  margin: 0 auto; 
+
+  
 }
 
 .banner-btn{
@@ -283,4 +293,12 @@ nav{
     margin: auto;
     text-align: center;
     justify-content: space-between;
+}
+.banner-bg-image {
+  text-align: center;
+}
+
+.profile-img {
+  display: block;
+  margin: 0 auto;
 }
