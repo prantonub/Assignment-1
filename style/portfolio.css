@@ -34,12 +34,19 @@ nav{
 .banner-content{
    font-family: "Azeret Mono", monospace;
   font-style:none;
-  font-size: 25x;
+  font-size: 25px;
   font-weight: 800; 
   justify-content: center;  
 }
 .banner-title{
   font-family: "Azeret Mono", monospace;
+  font-size: 40px;
+}
+.banner-ptag{
+  font-family: "Azeret Mono", monospace;
+  font-weight: 200px;  
+  font-style:none;
+  font-size: 20px;
 }
 .ptag{
   font-family: "Azeret Mono", monospace;
