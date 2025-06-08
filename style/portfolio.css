@@ -137,9 +137,8 @@ nav{
   margin-bottom: 20px;
 }
 .layer1{
-  margin-top: 40px;
    font-family: "Azeret Mono", monospace;
-   font-size: 15px;
+   font-size: 22px;
    color: #0D1321;
    text-align: left;
    display: flex;
@@ -151,7 +150,7 @@ nav{
   width: 50%;
   font-family: "Azeret Mono", monospace;
   font-style:none;
-  font-size: 12px;
+  font-size: 15px;
   text-align: left;
 }
 
