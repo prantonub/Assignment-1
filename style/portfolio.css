@@ -88,7 +88,8 @@ nav{
   text-align: center;
   font-family: "Azeret Mono", monospace;
   font-style:bold;
-  margin: 0 auto; 
+  margin-top : 15px;
+  font-size: 20px;
 
   
 }
@@ -115,7 +116,7 @@ nav{
   text-align: center;
   font-family: "Azeret Mono", monospace;
   font-style:bold;
-  font-size: 25px;
+  font-size: 30px;
   color: #0D1321;
   margin:auto;
   width: 80%;
