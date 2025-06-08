@@ -44,7 +44,7 @@ nav{
 }
 .name{
   font-family: "Azeret Mono", monospace;
-  font-size: 16px;
+  font-size: 20px;
 }
 .banner-ptag{
   font-family: "Azeret Mono", monospace;
@@ -247,11 +247,11 @@ nav{
     align-items: center;
 
 }
-.headr-ract{
+.learn-more{
  justify-content: center;
-   text-align: left;
+ text-align: left;
   font-family: "Azeret Mono", monospace;
-  font-size: 15px;
+  font-size: 20px;
   font-style:bold;
   color: #0D1321;
   margin:auto;
@@ -265,12 +265,12 @@ nav{
   margin-left: 15px;
   color: rgb(97, 89, 89)
 }
-.practs{
+.support{
   text-align: center;
   font-family: "Azeret Mono", monospace;
   font-style:bold;
   margin-left: 15px;
-  color: rgb(27, 215, 228);
+  color: rgb(232, 128, 128) ;
 }
 .header{
   margin-left: 10px;
