@@ -272,8 +272,10 @@ nav{
   margin-left: 15px;
   color: rgb(27, 215, 228);
 }
-.rect-header{
-  margin-left: 15px;
+.header{
+  margin-left: 10px;
+  font-family: "Azeret Mono", monospace;
+  font-size: 25px;
 }
 /* footrt style */
 .secondary-bg{
